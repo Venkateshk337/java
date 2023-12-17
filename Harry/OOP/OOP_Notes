@@ -1,0 +1,10 @@
+ memory allocated after object is created
+ it help to solve real world problem
+ Example
+ Noun--> class-->employee
+// Adjective -->Attribute-->name,age,salary
+ Verb-->Methods-->getsalary(),increment()
+
+ we can create methodes in class
+
+
